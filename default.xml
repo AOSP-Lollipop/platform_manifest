@@ -514,5 +514,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project path="vendor/lge/hammerhead" name="AOSP-Lollipop/platform_vendor" remote="github" revision="lollipop" />
   <project path="kernel/lge/hammerhead" name="engstk/hammerhead-5.0" remote="github" revision="code_blue-l" />
+  <project name="CyanogenMod/Superuser" path="external/koush/Superuser" remote="github" revision="cm-12.0" />
+  <project name="CyanogenMod/Widgets" path="external/koush/Widgets" remote="github" revision="cm-12.0" />
 
 </manifest>
